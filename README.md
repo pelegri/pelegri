@@ -1,4 +1,4 @@
 pelegri
 =======
 
-mostly a holder for public-facing information
+Random things.  Right now just a way to let people submit Issues easily...
