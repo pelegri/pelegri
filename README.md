@@ -1,4 +1,4 @@
-pelegri
+SDM - For the Win
 =======
 
-Random things.  Right now just a way to let people submit Issues easily...
+This will be a personal overview of SDM... Maybe.
